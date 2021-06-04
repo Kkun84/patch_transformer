@@ -115,9 +115,9 @@ if __name__ == '__main__':
         image_channels=image_channels,
         patch_size=patch_size,
         num_classes=3,
-        dim=64,
-        nhead=1,
-        dim_feedforward=64,
+        dim=13,
+        nhead=13,
+        dim_feedforward=17,
         depth=2,
     )
 

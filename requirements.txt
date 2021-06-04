@@ -1,0 +1,13 @@
+hydra-core
+docopt
+
+matplotlib
+opencv-python
+scikit-learn
+scikit-image
+
+pytorch_lightning
+torchinfo
+
+black
+flake8
